@@ -1,0 +1,18 @@
+body
+{
+    text-align:center;
+    padding:10px;
+    font-family: 'Montserrat', sans-serif;
+}
+#p1
+{
+    font-size:24px;
+}
+.abc
+{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:25px;
+}
